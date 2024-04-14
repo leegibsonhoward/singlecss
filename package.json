@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/main.min.css",
   "directories": {
-    "test": "test"
+    "docs": "docs"
   },
   "scripts": {
     "clean": "rimraf -g dist/**/*",
