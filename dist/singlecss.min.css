@@ -1,0 +1,2 @@
+:root{--color:#404040;--bg-color:#e4e4e4;--font:"Roboto Mono",monospace}body{background-color:var(--bg-color);color:var(--color);font-family:var(--font)}::placeholder{color:#4682b4}label{-webkit-user-select:none;user-select:none}
+/*# sourceMappingURL=singlecss.min.css.map */

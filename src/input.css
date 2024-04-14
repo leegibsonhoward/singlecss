@@ -1,0 +1,24 @@
+/* 
+    SingleCSS
+    Lee Howard, ©2024
+*/
+
+:root {
+    --color: #404040;
+    --bg-color: #e4e4e4;
+    --font: "Roboto Mono", monospace;
+}
+
+body {
+    font-family: var(--font);
+    color: var(--color);
+    background-color: var(--bg-color);
+}
+
+::placeholder {
+    color: steelblue;
+}
+
+label {
+    user-select: none;
+}
